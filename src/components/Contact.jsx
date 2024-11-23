@@ -17,7 +17,7 @@ const Contact = () => {
       message: data.message,
     };
     try {
-      await axios.post("https://getform.io/f/bwnnyjqa", userInfo);
+      await axios.post("https://formbold.com/s/67PDA", userInfo);
       toast.success("Your message has been sent");
     } catch (error) {
       console.log(error);
