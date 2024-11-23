@@ -1,6 +1,6 @@
 import React from 'react';
 import newspaper from "../../images/news-paper.png";
-import pgrental from "../../images/PG-rental.png";
+import pgrental from "../../images/PgRentalLogo.png";
 import funflix from "../../images/funflix.png";
 import crud from "../../images/CRUD.png";
 
